@@ -1,4 +1,4 @@
-module github/toy80/vmd
+module github.com/toy80/vmd
 
 go 1.16
 
